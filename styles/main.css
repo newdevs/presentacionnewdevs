@@ -274,3 +274,9 @@ a {
   color: #0089f3;
   text-decoration: none;
 }
+section.inicio {
+  background-color: #fff;
+}
+section.contacto img {
+  width: 20%;
+}
