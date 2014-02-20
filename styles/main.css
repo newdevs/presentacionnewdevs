@@ -249,12 +249,13 @@ h2 {
   font-size: 42px;
   letter-spacing: -1px;
   margin-bottom: 8px;
+  color: #6d3d94;
 }
 h3 {
   font-size: 24px;
   font-weight: normal;
   margin-bottom: 24px;
-  color: #606060;
+  color: #0072c6;
 }
 hr {
   visibility: hidden;
@@ -265,6 +266,7 @@ ul {
 }
 li {
   margin-bottom: 12px;
+  color: #0072c6;
 }
 p {
   margin: 0 100px 12px;
@@ -274,9 +276,38 @@ a {
   color: #0089f3;
   text-decoration: none;
 }
+.tint {
+  background: rgba(0,0,0,0.7);
+  padding: 30px;
+  color: #fff;
+}
 section.inicio {
   background-color: #fff;
 }
-section.contacto img {
+section.inicio img {
+  width: 80%;
+}
+section.quienessomos {
+  background-color: #fff;
+}
+section.contexto {
+  background-color: #fff;
+}
+section.solucion {
+  background-color: #fff;
+}
+section.clientes {
+  background-color: #fff;
+}
+section.porquenosotros {
+  background-color: #fff;
+}
+section.monetizacion {
+  background-color: #fff;
+}
+section.presentacion {
+  background-color: #fff;
+}
+section.presentacion img {
   width: 20%;
 }
